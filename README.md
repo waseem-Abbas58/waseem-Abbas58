@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:3B82F6,50:6366F1,100:A855F7&height=220&section=header&text=Waseem%20Abbas&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Flutter%20%E2%80%A2%20Full-stack%20%E2%80%A2%20AI%20Apps&descAlignY=60&descSize=20" alt="Waseem Abbas" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:A855F7&height=200&section=header&text=Waseem%20Abbas&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Flutter%20%E2%80%A2%20Full-stack%20%E2%80%A2%20AI%20Apps&descAlignY=60&descSize=20" alt="Waseem Abbas" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=600&lines=Flutter+apps+for+Android+and+iOS;AI-powered+features+that+users+love;Fast+websites+with+Next.js+and+React;From+idea+to+the+Play+Store+and+App+Store" alt="Typing intro" /></a>
 
