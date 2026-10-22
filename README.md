@@ -55,7 +55,6 @@
 
 <img src="https://streak-stats.demolab.com?user=waseem-Abbas58&hide_border=true&background=1E1B4B&ring=A855F7&fire=6366F1&currStreakLabel=A855F7&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=312E81" alt="Contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waseem-Abbas58&bg_color=1E1B4B&color=E2E8F0&line=A855F7&point=6366F1&area=true&area_color=6366F1&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 
