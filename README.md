@@ -40,6 +40,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | 🌿 **GreenScan Plant AI** | Identify plants, check plant health, Ask Botanist chat and voice, reminders, 5 languages | Flutter · Node.js · MongoDB · Gemini |
+| 🪴 **Garden Recall** | Gardening journal with voice notes, plant list, seasonal ideas and a garden brief | Flutter · Node.js · Express · MongoDB · Firebase Auth |
 | 🌐 **GreenScan website** | Marketing site and admin panel | Next.js · TypeScript · Vercel |
 | 🩺 **TeleHealth** | Doctor and patient video-care app UI | Flutter |
 | 📷 **QR and barcode scanner** | Fast scanner with history and sharing | Flutter |
